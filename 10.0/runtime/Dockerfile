@@ -1,4 +1,4 @@
-ARG IMAGE_NAME
+
 FROM ${IMAGE_NAME}:10.0-base-centos6
 LABEL maintainer "NVIDIA CORPORATION <cudatools@nvidia.com>"
 
